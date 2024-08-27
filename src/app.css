@@ -1,0 +1,7 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.dark {
+   color: #e0e0e0 !important; /* Sue me it's a small repo anyway */
+}
